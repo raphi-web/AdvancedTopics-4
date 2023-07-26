@@ -1,0 +1,287 @@
+NUTS1;NUTS2;NUTS3;NUTS3_NAME;DISTRICT_CODE;DISTRICT_NAME;LAU_CODE;LAU_NAME;TOUR_REG;REGION;STATUS;POP_TOTAL;AREA;ALTITUDE;REF_DATE
+AT2;AT22;AT221;Graz;601;Graz-Stadt;60101;Graz ;Region Graz;Steirischer Zentralraum;Statutarstadt;292630;12756,67;350;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60305;Frauental an der Laßnitz ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3040;1554,66;331;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60318;Lannach ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3647;1984,32;340;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60323;Pölfing-Brunn ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1602;615,77;329;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60324;Preding ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1905;1819,54;335;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60326;Sankt Josef (Weststeiermark) ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1693;1329,49;353;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60329;Sankt Peter im Sulmtal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1240;1095,04;376;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60341;Wettmannstätten ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1662;1796,64;299;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60344;Deutschlandsberg ;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde ;11676;17906,24;370;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60345;Eibiswald ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;6365;15212,72;382;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60346;Groß Sankt Florian ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4124;4879,55;312;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60347;Sankt Martin im Sulmtal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3078;3916,58;334;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60348;Sankt Stefan ob Stainz ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3596;4921,43;401;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60349;Bad Schwanberg ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4471;12424,60;418;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60350;Stainz ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;8686;9246,48;339;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;603;Deutschlandsberg;60351;Wies ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4252;7643,82;335;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60608;Feldkirchen bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;7133;1155,61;342;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60611;Gössendorf ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4215;717,95;333;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60613;Gratkorn ;Region Graz;Steirischer Zentralraum;Marktgemeinde;8374;3456,45;392;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60617;Hart bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde;5414;1101,48;369;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60618;Haselsdorf-Tobelbad ;Region Graz;Steirischer Zentralraum;Gemeinde;1581;666,00;424;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60619;Hausmannstätten ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3701;680,81;332;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60623;Kainbach bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde;2860;1775,58;558;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60624;Kalsdorf bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;8073;1508,92;324;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60626;Kumberg ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3895;2927,26;522;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60628;Laßnitzhöhe ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2795;1481,31;529;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60629;Lieboch ;Region Graz;Steirischer Zentralraum;Marktgemeinde;5457;1175,68;332;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60632;Peggau ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2367;1121,12;401;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60639;Sankt Bartholomä ;Region Graz;Steirischer Zentralraum;Gemeinde;1468;1175,29;488;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60641;Sankt Oswald bei Plankenwarth ;Region Graz;Steirischer Zentralraum;Gemeinde;1277;1175,33;547;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60642;Sankt Radegund bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde;2160;2160,34;722;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60645;Semriach ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3279;6034,44;715;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60646;Stattegg ;Region Graz;Steirischer Zentralraum;Gemeinde;3007;2585,22;422;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60647;Stiwoll ;Region Graz;Steirischer Zentralraum;Gemeinde;711;1296,35;495;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60648;Thal ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2420;1859,53;459;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60651;Übelbach ;Region Graz;Steirischer Zentralraum;Marktgemeinde;2084;9452,00;583;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60653;Vasoldsberg ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4731;2797,01;366;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60654;Weinitzen ;Region Graz;Steirischer Zentralraum;Gemeinde;2746;1894,36;495;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60655;Werndorf ;Region Graz;Steirischer Zentralraum;Gemeinde;2554;623,35;310;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60656;Wundschuh ;Region Graz;Steirischer Zentralraum;Gemeinde;1652;1279,15;321;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60659;Deutschfeistritz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4452;5697,63;407;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60660;Dobl-Zwaring ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3705;3765,64;323;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60661;Eggersdorf bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;7009;4922,27;410;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60662;Fernitz-Mellach  ;Region Graz;Steirischer Zentralraum;Gemeinde;4911;2053,49;317;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60663;Frohnleiten ;Region Graz;Steirischer Zentralraum;Stadtgemeinde ;6524;15391,03;433;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60664;Gratwein-Straßengel  ;Region Graz;Steirischer Zentralraum;Marktgemeinde;12779;8661,77;390;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60665;Hitzendorf ;Region Graz;Steirischer Zentralraum;Marktgemeinde;7296;4881,59;375;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60666;Nestelbach bei Graz ;Region Graz;Steirischer Zentralraum;Gemeinde ;2733;2719,50;436;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60667;Raaba-Grambach  ;Region Graz;Steirischer Zentralraum;Marktgemeinde;4722;1464,75;350;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60668;Sankt Marein bei Graz ;Region Graz;Steirischer Zentralraum;Marktgemeinde;3745;4156,76;380;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60669;Seiersberg-Pirka  ;Region Graz;Steirischer Zentralraum;Gemeinde;11972;1732,15;345;01.01.2022
+AT2;AT22;AT221;Graz;606;Graz-Umgebung;60670;Premstätten;Region Graz;Steirischer Zentralraum;Marktgemeinde;6610;2907,55;334;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61001;Allerheiligen bei Wildon ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1597;2034,58;403;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61002;Arnfels ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;963;420,86;313;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61007;Empersdorf ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1423;1419,42;361;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61008;Gabersdorf ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1292;1980,79;274;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61012;Gralla ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2732;1213,70;279;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61013;Großklein ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2266;2771,89;296;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61016;Heimschuh ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1985;1851,60;279;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61017;Hengsberg ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1497;1775,08;352;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61019;Kitzeck im Sausal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1183;1629,34;559;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61020;Lang ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1351;1562,13;286;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61021;Lebring-Sankt Margarethen ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2188;760,21;290;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61024;Oberhaag ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2077;3587,43;321;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61027;Ragnitz ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1528;2076,81;284;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61030;Sankt Andrä-Höch ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;1703;2062,63;356;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61032;Sankt Johann im Saggautal ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;2006;2702,57;306;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61033;Sankt Nikolai im Sausal ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2322;2618,29;335;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61043;Tillmitsch ;Süd-Weststeiermark;Südweststeiermark;Gemeinde;3613;1499,18;277;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61045;Wagna ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;6465;1298,72;268;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61049;Ehrenhausen an der Weinstraße ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2479;2025,14;261;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61050;Gamlitz ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3204;3680,93;281;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61051;Gleinstätten ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2766;2190,71;323;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61052;Heiligenkreuz am Waasen ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2864;2632,36;324;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61053;Leibnitz ;Süd-Weststeiermark;Südweststeiermark;Stadtgemeinde;12888;2352,19;273;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61054;Leutschach an der Weinstraße ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;3561;7563,36;351;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61055;Sankt Georgen an der Stiefing ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;1601;1871,72;314;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61057;Schwarzautal ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;2315;7389,14;287;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61059;Wildon ;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;5589;3994,92;316;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61060;Sankt Veit in der Südsteiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;4429;4758,24;262;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;610;Leibnitz;61061;Straß in Steiermark;Süd-Weststeiermark;Südweststeiermark;Marktgemeinde;6308;3272,60;254;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61101;Eisenerz ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;3609;12468,78;711;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61105;Kalwang ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;954;6716,34;756;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61106;Kammern im Liesingtal ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1614;5886,17;671;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61107;Kraubath an der Mur ;Urlaubsregion Murtal;Obersteiermark Ost;Marktgemeinde;1326;2744,46;632;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61108;Leoben ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;24414;10777,20;542;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61109;Mautern in Steiermark ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1702;10870,32;710;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61110;Niklasdorf ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2355;1519,90;521;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61111;Proleb ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1592;2452,24;515;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61112;Radmer ;Hochsteiermark;Obersteiermark Ost;Gemeinde;498;8259,72;692;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61113;Sankt Michael in Obersteiermark ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3065;5608,52;592;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61114;Sankt Peter-Freienstein ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2324;2735,48;604;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61115;Sankt Stefan ob Leoben ;Urlaubsregion Murtal;Obersteiermark Ost;Gemeinde;1851;7874,98;589;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61116;Traboch ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1416;1251,77;620;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61118;Vordernberg ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;889;2774,29;821;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61119;Wald am Schoberpaß ;Hochsteiermark;Obersteiermark Ost;Gemeinde;542;9043,23;847;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;611;Leoben;61120;Trofaiach ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde;10980;14365,26;657;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61203;Aigen im Ennstal ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;2722;8641,30;652;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61204;Altaussee ;Auseerland - Salzkammergut;Liezen;Gemeinde;1849;9257,48;727;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61205;Altenmarkt bei Sankt Gallen ;Sonstige;Liezen;Marktgemeinde;809;4337,86;469;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61206;Ardning ;Sonstige;Liezen;Gemeinde;1283;3404,42;664;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61207;Bad Aussee ;Auseerland - Salzkammergut;Liezen;Stadtgemeinde;4953;8203,30;652;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61213;Gröbming ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;3112;6694,75;767;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61215;Grundlsee ;Auseerland - Salzkammergut;Liezen;Gemeinde;1156;15223,28;717;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61217;Haus ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2465;8301,33;758;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61222;Lassing ;Sonstige;Liezen;Gemeinde;1698;3714,79;774;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61236;Ramsau am Dachstein ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;2861;7575,11;1137;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61243;Selzthal ;Sonstige;Liezen;Gemeinde;1512;1670,52;636;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61247;Trieben ;Sonstige;Liezen;Stadtgemeinde;3344;4551,38;710;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61251;Wildalpen ;Hochsteiermark;Liezen;Gemeinde;438;20311,85;611;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61252;Wörschach ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1150;4289,41;651;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61253;Admont ;Sonstige;Liezen;Marktgemeinde;4957;30002,28;635;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61254;Aich ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1315;5658,63;700;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61255;Bad Mitterndorf ;Auseerland - Salzkammergut;Liezen;Marktgemeinde;4930;19616,67;800;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61256;Gaishorn am See ;Hochsteiermark;Liezen;Marktgemeinde;1312;7683,25;724;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61257;Irdning-Donnersbachtal ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;4132;19960,62;665;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61258;Landl ;Sonstige;Liezen;Gemeinde;2562;25485,15;522;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61259;Liezen ;Sonstige;Liezen;Stadtgemeinde;8245;9210,65;657;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61260;Michaelerberg-Pruggern  ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1207;4783,45;686;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61261;Mitterberg-Sankt Martin;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1917;5493,90;804;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61262;Öblarn ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;1984;7009,96;668;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61263;Rottenmann ;Sonstige;Liezen;Stadtgemeinde;5125;20548,28;672;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61264;Sankt Gallen ;Sonstige;Liezen;Marktgemeinde;1786;12964,59;509;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61265;Schladming ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Stadtgemeinde;6538;21100,01;740;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61266;Sölk ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Gemeinde;1481;28868,44;668;01.01.2022
+AT2;AT22;AT222;Liezen;612;Liezen;61267;Stainach-Pürgg ;Schladming-Dachstein, Tourismusmarketing GmbH;Liezen;Marktgemeinde;2766;7309,64;664;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61410;Mühlen ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;886;5080,00;961;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61413;Niederwölz ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;591;1025,25;749;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61425;St. Peter am Kammersberg;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2002;8461,23;853;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61428;Schöder ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;917;7459,28;893;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61437;Krakau;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1383;12346,04;1176;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61438;Murau ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;3432;7665,82;811;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61439;Neumarkt in der Steiermark ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;4866;16352,25;835;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61440;Oberwölz ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;2939;21029,63;833;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61441;Ranten ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1130;5246,37;912;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61442;Sankt Georgen am Kreischberg;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1703;11158,37;851;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61443;Sankt Lambrecht ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1742;7040,94;1023;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61444;Scheifling ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2142;5740,50;770;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61445;Stadl-Predlitz;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1665;25711,02;882;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;614;Murau;61446;Teufenbach-Katsch  ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1854;4231,80;754;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61611;Krottendorf-Gaisfeld ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;2465;1702,43;358;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61612;Ligist ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3255;3462,49;387;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61615;Mooskirchen ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2185;1797,25;341;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61618;Rosental an der Kainach ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1575;652,04;419;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61621;Sankt Martin am Wöllmißberg ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;807;2558,79;757;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61624;Stallhofen ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;3183;2727,52;391;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61625;Voitsberg ;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;9455;2853,63;395;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61626;Bärnbach ;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde ;5778;3152,31;425;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61627;Edelschrott ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;1659;8780,52;797;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61628;Geistthal-Södingberg  ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1489;5245,13;592;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61629;Hirschegg-Pack ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;994;9889,06;896;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61630;Kainach bei Voitsberg ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;1599;8324,48;544;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61631;Köflach ;Süd-Weststeiermark;Steirischer Zentralraum;Stadtgemeinde;9673;4306,97;450;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61632;Maria Lankowitz ;Süd-Weststeiermark;Steirischer Zentralraum;Marktgemeinde;2759;10428,74;506;01.01.2022
+AT2;AT22;AT225;West- und Südsteiermark;616;Voitsberg;61633;Söding-Sankt Johann ;Süd-Weststeiermark;Steirischer Zentralraum;Gemeinde;4163;1936,74;343;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61701;Albersdorf-Prebuch ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2269;1416,38;364;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61708;Fischbach ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1524;6170,23;992;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61710;Floing ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1209;1329,20;456;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61711;Gasen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;872;3394,78;830;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61716;Markt Hartmannsdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;2967;2928,55;329;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61719;Hofstätten an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2329;1523,09;459;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61727;Ludersdorf-Wilfersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2514;1281,09;353;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61728;Miesenbach bei Birkfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;659;1461,56;829;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61729;Mitterdorf an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2130;2101,29;405;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61730;Mortantsch ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2231;1754,91;536;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61731;Naas ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1340;2084,45;537;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61740;Puch bei Weiz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2046;2484,05;432;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61741;Ratten ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1073;2870,92;736;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61743;Rettenegg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;704;7887,10;856;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61744;St. Kathrein am Hauenstein;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;622;1925,33;783;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61745;Sankt Kathrein am Offenegg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1061;4034,69;965;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61746;St. Margarethen an der Raab;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4158;4309,62;329;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61748;Sinabelkirchen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4454;3708,92;317;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61750;Strallegg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1903;4198,57;849;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61751;Thannhausen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2492;3351,44;481;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61756;Anger ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3961;5383,83;471;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61757;Birkfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4972;8967,11;619;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61758;Fladnitz an der Teichalm ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1784;6637,45;696;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61759;Gersdorf an der Feistritz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1759;3003,66;337;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61760;Gleisdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde ;11200;3879,83;362;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61761;Gutenberg-Stenzengreith ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1630;2291,92;601;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61762;Ilztal ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2190;2245,96;331;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61763;Passail ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4428;8491,58;653;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61764;Pischelsdorf am Kulm;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3687;2814,82;381;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61765;Sankt Ruprecht an der Raab ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;5551;4111,08;379;01.01.2022
+AT2;AT22;AT224;Oststeiermark;617;Weiz;61766;Weiz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;11791;1750,19;473;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62007;Fohnsdorf ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;7558;5470,66;738;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62008;Gaal ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1318;19730,86;858;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62010;Hohentauern ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;380;9205,39;1272;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62014;Kobenz ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1931;1764,60;621;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62021;Pusterwald ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;430;10522,63;1072;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62026;Sankt Georgen ob Judenburg ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;860;4431,72;737;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62032;Sankt Peter ob Judenburg ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1069;5039,77;743;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62034;Seckau ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1308;4626,60;851;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62036;Unzmarkt-Frauenburg ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;1270;3657,11;750;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62038;Zeltweg ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde;6962;867,31;656;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62039;Lobmingtal;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;1860;5454,14;642;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62040;Judenburg ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;9557;6368,74;737;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62041;Knittelfeld ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;12603;1380,94;645;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62042;Obdach ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;3783;15924,05;868;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62043;Pöls-Oberkurzheim  ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2922;6260,14;790;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62044;Pölstal;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;2515;27063,43;918;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62045;Sankt Marein-Feistritz;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;2057;7061,36;701;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62046;Sankt Margarethen bei Knittelfeld ;Urlaubsregion Murtal;Obersteiermark West;Gemeinde;2665;14819,87;633;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62047;Spielberg ;Urlaubsregion Murtal;Obersteiermark West;Stadtgemeinde ;5350;2969,52;663;01.01.2022
+AT2;AT22;AT226;Westliche Obersteiermark;620;Murtal;62048;Weißkirchen in Steiermark ;Urlaubsregion Murtal;Obersteiermark West;Marktgemeinde;4847;14962,49;687;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62105;Breitenau am Hochlantsch ;Thermenland Steiermark - Oststeiermark;Obersteiermark Ost;Marktgemeinde;1602;6244,81;607;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62115;Krieglach ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;5371;9379,53;608;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62116;Langenwang ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3877;7607,07;637;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62125;Pernegg an der Mur ;Region Graz;Obersteiermark Ost;Gemeinde;2493;8606,98;461;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62128;Sankt Lorenzen im Mürztal ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;3722;3807,86;569;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62131;Spital am Semmering ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1745;7273,27;774;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62132;Stanz im Mürztal ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1821;7695,47;649;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62135;Turnau ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;1571;13409,78;758;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62138;Aflenz ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2442;5510,81;760;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62139;Bruck an der Mur ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;15720;8545,32;486;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62140;Kapfenberg ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;22138;8208,25;501;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62141;Kindberg ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;8197;9066,20;565;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62142;Mariazell ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;3618;41413,77;860;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62143;Mürzzuschlag ;Hochsteiermark;Obersteiermark Ost;Stadtgemeinde ;8156;5138,11;674;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62144;Neuberg an der Mürz ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2356;27481,95;734;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62145;Sankt Barbara im Mürztal;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;6517;11259,26;588;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62146;Sankt Marein im Mürztal ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2871;2949,03;537;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62147;Thörl ;Hochsteiermark;Obersteiermark Ost;Marktgemeinde;2207;16643,40;643;01.01.2022
+AT2;AT22;AT223;Östliche Obersteiermark;621;Bruck-Mürzzuschlag;62148;Tragöß-Sankt Katharein ;Hochsteiermark;Obersteiermark Ost;Gemeinde;1818;15451,76;650;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62202;Bad Blumau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1584;3733,18;269;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62205;Buch-St. Magdalena;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2184;2631,57;453;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62206;Burgau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1063;1999,91;276;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62209;Ebersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1282;1721,80;307;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62211;Friedberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;2652;2587,85;594;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62214;Greinbach ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1893;2337,98;422;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62216;Großsteinbach ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1282;2123,77;326;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62219;Hartberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde;6774;2153,59;358;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62220;Hartberg Umgebung ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2199;3041,77;349;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62226;Lafnitz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1459;1553,87;412;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62232;Ottendorf an der Rittschein ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1595;1427,37;296;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62233;Pinggau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3135;5899,51;522;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62235;Pöllauberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2030;3386,89;750;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62242;Sankt Jakob im Walde ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1028;3025,52;927;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62244;Sankt Johann in der Haide ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2227;2353,27;370;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62245;Sankt Lorenzen am Wechsel ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1419;4850,23;725;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62247;Schäffern ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1340;3234,71;604;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62252;Söchau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1461;1818,10;268;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62256;Stubenberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2205;3259,42;443;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62262;Wenigzell ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1397;3549,48;814;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62264;Bad Waltersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3929;5212,72;291;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62265;Dechantskirchen ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2017;2885,22;516;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62266;Feistritztal;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2425;2573,57;356;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62267;Fürstenfeld ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Stadtgemeinde ;8774;5031,39;277;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62268;Grafendorf bei Hartberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3189;4568,64;382;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62269;Großwilfersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2109;3824,42;274;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62270;Hartl ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2117;3375,23;364;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62271;Ilz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3731;3925,51;288;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62272;Kaindorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;3022;2786,54;331;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62273;Bad Loipersdorf ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1818;2505,43;246;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62274;Neudau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;1496;1366,18;289;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62275;Pöllau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;5958;8817,23;421;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62276;Rohr bei Hartberg ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1405;2769,66;340;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62277;Rohrbach an der Lafnitz ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;2640;2635,94;432;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62278;Vorau ;Thermenland Steiermark - Oststeiermark;Oststeiermark;Marktgemeinde;4650;8082,91;675;01.01.2022
+AT2;AT22;AT224;Oststeiermark;622;Hartberg-Fürstenfeld;62279;Waldbach-Mönichwald;Thermenland Steiermark - Oststeiermark;Oststeiermark;Gemeinde;1435;5377,55;574;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62311;Edelsbach bei Feldbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1354;1608,92;307;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62314;Eichkögl ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1360;1494,09;420;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62326;Halbenrain ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1728;3870,81;221;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62330;Jagerberg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1629;2903,27;377;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62332;Kapfenstein ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1538;2862,03;309;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62335;Klöch ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1157;1639,73;280;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62343;Mettersdorf am Saßbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1361;2269,50;278;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62368;Tieschen ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;1201;1809,53;260;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62372;Unterlamm ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1254;1670,19;277;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62375;Bad Gleichenberg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;5195;3872,57;295;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62376;Bad Radkersburg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;3178;2994,43;209;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62377;Deutsch Goritz ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;1777;3370,56;243;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62378;Fehring ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;7150;8707,86;270;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62379;Feldbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;13337;6712,47;283;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62380;Gnas ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;5990;8137,35;277;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62381;Kirchbach-Zerlach;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3244;3905,14;329;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62382;Kirchberg an der Raab ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;4564;4379,55;357;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62383;Mureck ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Stadtgemeinde ;3454;3868,11;237;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62384;Paldau ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3142;3912,41;311;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62385;Pirching am Traubenberg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Gemeinde;2549;3150,66;354;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62386;Riegersburg ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;4944;7119,60;372;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62387;Sankt Anna am Aigen ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2357;3265,81;411;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62388;Sankt Peter am Ottersbach ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;2909;4834,05;271;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62389;Sankt Stefan im Rosental ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3832;4302,71;319;01.01.2022
+AT2;AT22;AT224;Oststeiermark;623;Südoststeiermark;62390;Straden ;Thermenland Steiermark - Oststeiermark;Südoststeiermark;Marktgemeinde;3492;5634,48;340;01.01.2022
